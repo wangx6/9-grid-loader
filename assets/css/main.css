@@ -1,0 +1,30 @@
+/* Styles go here */
+
+body{
+    background: #333;
+}
+.loading{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.loading{
+  transition: all 2s;
+}
+.app__loading__blk{
+    position: absolute;
+    color: #333;
+    height: 20px;
+    width: 20px;
+    background: #fff;
+    border:2px solid #333;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 9px;
+    border-radius: 4px;
+    will-change: top left;
+    transition: all 0.1s ease-in;
+}
