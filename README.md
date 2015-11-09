@@ -1,6 +1,5 @@
 # 9-grid-loader 
 
-Screen Shot:
 ![ScreenShot](https://raw.github.com/wangx6/9-grid-loader/master/assets/img/screenshot.jpg)
 
 Link:
